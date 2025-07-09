@@ -1,6 +1,6 @@
 👋 Hi, I’m @mangila
 
-At the moment I spend most of my time to contribute to my own GitHub projects where I just build stuffs that comes to my mind.
+Unassigned at the moment so I spend most of my time to contribute to my own GitHub projects where I just build stuffs that comes to my mind.
 
 ## Haiku about me created by ChatGPT
 
