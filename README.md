@@ -2,7 +2,7 @@
 
 I spend most of my time to contribute to my own GitHub projects where I just build stuffs that comes to my mind
 
-Currently doing a closed source Python project
+Currently doing a closed source Elixir and Astro deployed to AWS project
 
 ### Haiku about me created by ChatGPT
 
