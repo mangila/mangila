@@ -1,6 +1,8 @@
 👋 Hi, I’m @mangila
 
-I spend most of my time to contribute to my own GitHub projects where I just build stuffs that comes to my mind
+I spend most of my time to contribute to my own GitHub projects where I just build stuffs that comes to my mind.
+
+- If you need teaching, assistance or commits please send me an email! :email:
 
 Currently doing a closed source Elixir and Astro deployed to AWS project automated with Python, Terraform and Ansible
 
