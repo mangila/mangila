@@ -2,11 +2,7 @@
 
 I spend most of my time to contribute to my own GitHub projects where I just build stuffs that comes to my mind
 
-Currently doing a closed source Elixir and Astro deployed to AWS project
-
-### Haiku about me created by ChatGPT
-
-Builder of logic, you craft order from chaos— code becomes your voice.
+Currently doing a closed source Elixir and Astro deployed to AWS project automated with Python, Terraform and Ansible
 
 ## CV :point_down:
 * https://github.com/mangila/cv/blob/main/CV.pdf
