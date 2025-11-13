@@ -15,3 +15,6 @@ Enjoy my profile or just my code vibe? Buy me a coffee :angel:
 - Ethereum - 0x9d258420dB2bA16BBe1cF0b15dAC84C9959e0be2
 - Solana - BGGEzxThkpKHSCMeSUfDt2UJQmvU89U8fHX8J77shAGR
 - Paypal - olsson.erik1993@gmail.com
+
+## [README stats](https://github.com/anuraghazra/github-readme-stats)
+[![Mangilas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangila&show_icons=true&theme=transparent)](https://github.com/mangila)
