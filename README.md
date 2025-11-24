@@ -4,7 +4,7 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 
 - If you need teaching, assistance or commits don't hesitate and send me an email! :email:
 
-Currently doing a closed source Elixir and Astro deployed to AWS project automated with Python, Terraform and Ansible
+Currently building open source Github project - https://github.com/mangila/spring-crud
 
 ## CV :point_down:
 * https://github.com/mangila/cv/blob/main/CV.pdf
