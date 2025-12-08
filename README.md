@@ -4,8 +4,6 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 
 - If you need teaching, assistance or commits don't hesitate and send me an email! :email:
 
-Currently building open source Github project - https://github.com/mangila/spring-crud
-
 ## CV :point_down:
 * https://github.com/mangila/cv/blob/main/CV.pdf
 
