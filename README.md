@@ -4,15 +4,15 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 
 - If you need teaching, assistance or commits don't hesitate and send me an email! :email:
 
-# Stuffs i'm doing open source currently
+### Stuffs i'm doing open source currently
 - Ansible togheter with Terraform for a multi tenant deployment
 - Ollama Spring AI integration
 - Kong API gateway togheter with Envoy 
 
-## CV :point_down:
+### CV :point_down:
 * https://github.com/mangila/cv/blob/main/CV.pdf
 
-## [Public README stats](https://github.com/anuraghazra/github-readme-stats)
+### [Public README stats](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mangilas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangila&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/mangila)
 
