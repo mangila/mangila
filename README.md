@@ -4,8 +4,10 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 
 - If you need teaching, assistance or commits don't hesitate and send me an email! :email:
 
-- Currently playing around with multi tenant stuffs - https://github.com/mangila/multi-tenant-iac
-- Currently adopting to AI
+# Stuffs i'm doing open source currently
+- Ansible togheter with Terraform for a multi tenant deployment
+- Ollama Spring AI integration
+- Kong API gateway togheter with Envoy 
 
 ## CV :point_down:
 * https://github.com/mangila/cv/blob/main/CV.pdf
