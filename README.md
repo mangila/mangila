@@ -11,6 +11,7 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 
 ### CV :point_down:
 * https://github.com/mangila/cv/blob/main/CV.pdf
+* Currently interviewing
 
 ### [Public README stats](https://github.com/anuraghazra/github-readme-stats)
 
