@@ -7,7 +7,8 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 ### Stuffs i'm doing open source currently
 - Ansible togheter with Terraform for a multi tenant deployment
 - Ollama Spring AI integration
-- Kong API gateway togheter with Envoy 
+- Kong API gateway togheter with Envoy
+- Spring GraalVM native image stuffs 
 
 ### CV :point_down:
 * https://github.com/mangila/cv/blob/main/CV.pdf
