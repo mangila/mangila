@@ -1,4 +1,4 @@
-👋 Hi, I’m @mangila
+# Hi, I’m @mangila
 
 I spend most of my time to contribute to my own GitHub projects where I just build stuffs that comes to my mind.
 
@@ -10,7 +10,7 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 - Kong API gateway togheter with Envoy
 - Spring GraalVM native image stuffs 
 
-### CV :point_down:
+### CV
 * https://github.com/mangila/cv/blob/main/CV.pdf
 * Currently interviewing
 
