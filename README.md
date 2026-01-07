@@ -8,7 +8,8 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 - Ansible togheter with Terraform for a multi tenant deployment
 - Ollama Spring AI integration
 - Kong API gateway togheter with Envoy
-- Spring GraalVM native image stuffs 
+- Spring GraalVM native image stuffs
+- Spring Websocket with STOMP protocol 
 
 ## CV
 * https://github.com/mangila/cv/blob/main/CV.pdf
