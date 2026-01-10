@@ -4,7 +4,11 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 
 - If you need teaching, assistance or commits don't hesitate and send me an [email](mailto:olsson.erik1993@gmail.com)
 
-## Stuffs i'm doing open source currently
+## Side projects
+
+- [Ensure4j](https://github.com/mangila/ensure4j) - Ensure your java code with preconditions checks
+
+## Other stuffs i'm currently open sourcing
 - Ansible togheter with Terraform for a multi tenant deployment
 - Ollama Spring AI integration
 - Kong API gateway togheter with Envoy
