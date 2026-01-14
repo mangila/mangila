@@ -8,7 +8,7 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 
 - [Ensure4j](https://github.com/mangila/ensure4j) - Ensure your java code with preconditions checks
 
-## Other stuffs i'm currently open sourcing
+## Some "play around and find out" stuffs i'm doing
 - Ansible togheter with Terraform for a multi tenant deployment
 - Ollama Spring AI integration
 - Kong API gateway togheter with Envoy
