@@ -17,4 +17,3 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 
 ## CV
 * https://github.com/mangila/cv/blob/main/CV.pdf
-* Currently interviewing
