@@ -13,7 +13,8 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 - Ollama Spring AI integration
 - Kong API gateway togheter with Envoy
 - Spring GraalVM native image stuffs
-- Spring Websocket with STOMP protocol 
+- Spring Websocket with STOMP protocol
+- Spring with Vaadin
 
 ## CV
 * https://github.com/mangila/cv/blob/main/CV.pdf
