@@ -9,10 +9,10 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 - [Ensure4j](https://github.com/mangila/ensure4j) - Ensure your java code with preconditions checks
 
 ## Some "play around and find out" stuffs i'm doing
-- Quarkus stuffs
-- Spring stuffs
-- Cloud Native stuffs
-- Javascript stuffs
+- [Java](https://github.com/mangila/java-scratch)
+- [Spring](https://github.com/mangila/spring-scratch)
+- [Quarkus](https://github.com/mangila/quarkus-scratch)
+- [Cloud](https://github.com/mangila/cloud-native-scratch)
 
 ## CV
 * https://github.com/mangila/cv/blob/main/CV.pdf
