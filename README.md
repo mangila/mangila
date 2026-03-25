@@ -15,4 +15,4 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 - [Cloud](https://github.com/mangila/cloud-native-scratch)
 
 ## CV
-* https://github.com/mangila/cv/blob/main/CV.pdf
+* https://github.com/mangila/cv
