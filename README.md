@@ -13,6 +13,7 @@ I spend most of my time to contribute to my own GitHub projects where I just bui
 - [Spring](https://github.com/mangila/spring-scratch)
 - [Quarkus](https://github.com/mangila/quarkus-scratch)
 - [Cloud](https://github.com/mangila/cloud-native-scratch)
+- [Golang](https://github.com/mangila/go-scratch)
 
 ## CV
 * https://github.com/mangila/cv
