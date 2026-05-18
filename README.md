@@ -1,4 +1,3 @@
-[![Hits](https://hits.sh/github.com/mangila.svg)](https://hits.sh/github.com/mangila)
 # Hi there, I’m @mangila
 
 I mostly contribute to my own GitHub projects where I just build stuffs that comes to my mind.
@@ -20,3 +19,5 @@ I mostly contribute to my own GitHub projects where I just build stuffs that com
 
 ## CV
 * https://github.com/mangila/cv
+
+[![Hits](https://hits.sh/github.com/mangila.svg)](https://hits.sh/github.com/mangila)
