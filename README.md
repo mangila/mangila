@@ -12,8 +12,9 @@ I mostly contribute to my own GitHub projects where I just build stuffs that com
 - [Java](https://github.com/mangila/java-scratch)
 - [Spring](https://github.com/mangila/spring-scratch)
 - [Quarkus](https://github.com/mangila/quarkus-scratch)
-- [Cloud](https://github.com/mangila/cloud-native-scratch)
+- [Terraform](https://github.com/mangila/terraform-scratch)
 - [Golang](https://github.com/mangila/go-scratch)
+- [Rust](https://github.com/mangila/rust-scratch)
 
 ## CV
 * https://github.com/mangila/cv
