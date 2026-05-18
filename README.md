@@ -15,6 +15,7 @@ I mostly contribute to my own GitHub projects where I just build stuffs that com
 - [Terraform](https://github.com/mangila/terraform-scratch)
 - [Golang](https://github.com/mangila/go-scratch)
 - [Rust](https://github.com/mangila/rust-scratch)
+- [.NET](https://github.com/mangila/dotnet-scratch)
 
 ## CV
 * https://github.com/mangila/cv
