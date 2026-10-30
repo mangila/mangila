@@ -17,6 +17,7 @@ I mostly contribute to my own GitHub projects where I just build stuffs that com
 - [Rust](https://github.com/mangila/rust-scratch)
 - [.NET](https://github.com/mangila/dotnet-scratch)
 - [Javascript/TS](https://github.com/mangila/javascript-scratch)
+- [AI](https://github.com/mangila/ai-scratch)
 
 ## CV
 * https://github.com/mangila/cv
