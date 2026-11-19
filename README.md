@@ -1,28 +1,29 @@
-# Hi there, I’m @mangila
+# Hi, I'm @mangila
 
-I mostly contribute to my own GitHub projects where I just build stuffs that comes to my mind.
+Software engineer sharing libraries, work-in-progress builds, and hands-on experiments.
 
-- If you need teaching, assistance or commits don't hesitate and send me an [email](mailto:olsson.erik1993@gmail.com)
+## Side Projects
 
-## Side projects
+* **[Ensure4j](https://github.com/mangila/ensure4j)** — Precondition and contract checks for Java.
 
-- [Ensure4j](https://github.com/mangila/ensure4j) - Ensure your java code with preconditions checks
+## Showcase Projects
 
-## Showcase projects
+* *Work in progress — larger end-to-end builds coming soon.*
 
-WIP 
+## Scratchpad ("Play Around & Find Out")
 
-## Scratch projects
+Small prototypes, runtime tests, and quick experiments across stacks I use or explore:
 
-"play around and find out" projects
+### Backend & Runtimes
+* **[Java](https://github.com/mangila/java-scratch)** — Core Java language and standard library experiments.
+* **[Spring](https://github.com/mangila/spring-scratch)** — Spring ecosystem and application patterns.
+* **[Quarkus](https://github.com/mangila/quarkus-scratch)** — Cloud-native Java and fast-startup experiments.
+* **[.NET](https://github.com/mangila/dotnet-scratch)** — C# and .NET explorations.
+* **[Golang](https://github.com/mangila/go-scratch)** — Go services, tooling, and concurrency tests.
+* **[Rust](https://github.com/mangila/rust-scratch)** — Systems and performance experiments in Rust.
+* **[JavaScript/TS](https://github.com/mangila/javascript-scratch)** — Frontend, tooling, and TypeScript snippets.
 
-- [Java](https://github.com/mangila/java-scratch)
-- [Spring](https://github.com/mangila/spring-scratch)
-- [Quarkus](https://github.com/mangila/quarkus-scratch)
-- [Terraform](https://github.com/mangila/terraform-scratch)
-- [Golang](https://github.com/mangila/go-scratch)
-- [Rust](https://github.com/mangila/rust-scratch)
-- [.NET](https://github.com/mangila/dotnet-scratch)
-- [Javascript/TS](https://github.com/mangila/javascript-scratch)
-- [AI](https://github.com/mangila/ai-scratch)
-- [k8s](https://github.com/mangila/k8s-scratch)
+### Infrastructure & AI
+* **[k8s](https://github.com/mangila/k8s-scratch)** — Kubernetes manifests, GitOps, and cluster workflows.
+* **[Terraform](https://github.com/mangila/terraform-scratch)** — Infrastructure-as-code modules and setups.
+* **[AI](https://github.com/mangila/ai-scratch)** — LLM workflows, agents, and RAG retrieval experiments.
