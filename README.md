@@ -1,6 +1,6 @@
 # Hi, I'm @mangila
 
-Software engineer sharing libraries, work-in-progress builds, and hands-on experiments.
+Software engineer that enjoys building stuffs
 
 ## Side Projects
 
