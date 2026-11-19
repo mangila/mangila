@@ -8,7 +8,14 @@ I mostly contribute to my own GitHub projects where I just build stuffs that com
 
 - [Ensure4j](https://github.com/mangila/ensure4j) - Ensure your java code with preconditions checks
 
-## Some "play around and find out" stuffs i'm doing
+## Showcase projects
+
+WIP 
+
+# Scratch projects
+
+"play around and find out" projects
+
 - [Java](https://github.com/mangila/java-scratch)
 - [Spring](https://github.com/mangila/spring-scratch)
 - [Quarkus](https://github.com/mangila/quarkus-scratch)
