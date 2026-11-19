@@ -18,3 +18,4 @@ I mostly contribute to my own GitHub projects where I just build stuffs that com
 - [.NET](https://github.com/mangila/dotnet-scratch)
 - [Javascript/TS](https://github.com/mangila/javascript-scratch)
 - [AI](https://github.com/mangila/ai-scratch)
+- [k8s](https://github.com/mangila/k8s-scratch)
