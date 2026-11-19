@@ -12,7 +12,7 @@ I mostly contribute to my own GitHub projects where I just build stuffs that com
 
 WIP 
 
-# Scratch projects
+## Scratch projects
 
 "play around and find out" projects
 
